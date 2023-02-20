@@ -1,0 +1,19 @@
+body{background-color:rgb(237, 237, 237)}
+/*กำหมดขนาดเเละสี*/
+  h1{
+    color: rgb(0, 0, 0);
+
+  }
+  h5{
+    color:rgba(64, 64, 64, 0.845);
+  }
+  .Fox{
+    background-color:beige;
+  }
+  .circular{
+    border-radius:100%;
+  }
+  #heading{
+    color: red;
+  }
+ 
